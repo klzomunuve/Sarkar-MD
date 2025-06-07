@@ -23,7 +23,7 @@
     "OWNER_NUMBER": {
       "description": "Enter the owner's phone number with country code (e.g., +1234567890)",
       "required": true,
-      "value": "+923000000000"
+      "value": "+254701700317"
     },
     "OWNER_NAME": {
       "description": "Enter the owner's name",
@@ -48,7 +48,7 @@
     "AUTO_RECORDING": {
       "description": "Enter 'true' to show recording audio, 'no' to disable",
       "required": false,
-      "value": "no"
+      "value": "true"
     },
     "ALWAYS_ONLINE": {
       "description": "Enter 'true' to show the bot as always online, 'no' to disable",
@@ -58,12 +58,12 @@
     "AUTO_BLOCK": {
       "description": "Enter 'true' to auto-block numbers starting with 212, 'no' to disable",
       "required": false,
-      "value": "no"
+      "value": "true"
     },
     "REJECT_CALL": {
       "description": "Enter 'true' to reject calls, 'no' to disable",
       "required": false,
-      "value": "no"
+      "value": "true"
     }
   },
   "buildpacks": [
