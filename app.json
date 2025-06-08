@@ -23,12 +23,12 @@
     "OWNER_NUMBER": {
       "description": "Enter the owner's phone number with country code (e.g., +1234567890)",
       "required": true,
-      "value": "+254701700317"
+      "value": "+254759729937"
     },
     "OWNER_NAME": {
       "description": "Enter the owner's name",
       "required": true,
-      "value": "Bandaheali"
+      "value": "skipper"
     },
     "AUTO_STATUS_SEEN": {
       "description": "Enter 'true' for autoview status, 'no' to disable",
